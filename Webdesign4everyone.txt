@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Anthony Njuguna Matheri"
+<title>Anthony Njuguna Matheri</title>
+</head>
+<body>
+<header>
+ <h1>Anthony Njuguna Matheri</h1>
+ <nav>
+  <a href="http://www.coursera.org" target="_blank">One</a>
+  <a href="http://www.edx.org" target="_blank">Two</a>
+  <a href="http://www.udacity.com" target="_blank">Three</a>
+  <a href="http://www.coursera.org" target="_blank">One</a>
+  </nav>
+</header>
+
+<section>
+<h2>Favorite Foods</h2>
+<ul>
+  <li>Chapati</li>
+  <li>Githeri</li>
+  <li>Pilau</li>
+  <li>BraaiMeat</li>
+</ul>
+</section>
+
+<section>
+ <h>Achievements</h2>
+ <p>Progress in this course (100%)<progress value="1"></progress>
+ <br>Progress in the Specialization capstone (25%)
+<progress value="25" max="100"></progress>
+<br> Progress in life goals (50%)
+ <progress value="50" max="100"></progress>
+</p>
+</section>
+
+<section>
+ <h2>More About Me</h2>
+ <details open>
+  <summary>My Childhood</summary>
+  <p>I grew up in Kenya and South Africa. During my childhood 
+  I enjoyed lot with my friends . Since I no longer live there I really miss those awesome 
+  days and the natural envirnment of my village.<p>
+</details>
+</section>
+
+<footer>
+<p>
+<img src="http://www.intro-webdesign.com/images/newlogo.png" 
+alt="Intro to web design logo">
+This page was created by Snehal Pawar &amp; Colleen van Lent.To learn more about 
+web design ,visit
+<a href="http://www.intro_webdesign.com/">
+Intro to Web Design.</a>
+</p>
+</footer>
+</body>
+</html>
